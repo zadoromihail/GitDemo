@@ -14,6 +14,7 @@
 		87CFF92624FCFD2700252C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87CFF92524FCFD2700252C15 /* Assets.xcassets */; };
 		87CFF92924FCFD2700252C15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87CFF92724FCFD2700252C15 /* LaunchScreen.storyboard */; };
 		87CFF93124FD01EE00252C15 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 87CFF93024FD01EE00252C15 /* .gitignore */; };
+		87CFF93324FD4A1B00252C15 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87CFF93224FD4A1B00252C15 /* Student.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		87CFF92824FCFD2700252C15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87CFF92A24FCFD2700252C15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87CFF93024FD01EE00252C15 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		87CFF93224FD4A1B00252C15 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				87CFF93024FD01EE00252C15 /* .gitignore */,
 				87CFF91E24FCFD2500252C15 /* SceneDelegate.swift */,
 				87CFF92024FCFD2500252C15 /* ViewController.swift */,
+				87CFF93224FD4A1B00252C15 /* Student.swift */,
 				87CFF92224FCFD2500252C15 /* Main.storyboard */,
 				87CFF92524FCFD2700252C15 /* Assets.xcassets */,
 				87CFF92724FCFD2700252C15 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				87CFF92124FCFD2500252C15 /* ViewController.swift in Sources */,
 				87CFF91D24FCFD2500252C15 /* AppDelegate.swift in Sources */,
 				87CFF91F24FCFD2500252C15 /* SceneDelegate.swift in Sources */,
+				87CFF93324FD4A1B00252C15 /* Student.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
